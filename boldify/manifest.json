@@ -8,7 +8,7 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["boldify.js"]
+      "js": ["endict.js","boldify.js"]
     }
   ]
 }
